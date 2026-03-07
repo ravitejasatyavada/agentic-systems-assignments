@@ -37,6 +37,7 @@ class User(BaseModel):
     email: EmailStr
     age: int = Field(ge=18)
     address: Address
+    is_premium: bool = Field(default=False)
 
 
 address = {"city": "Bengaluru", "pincode": "560049"}
