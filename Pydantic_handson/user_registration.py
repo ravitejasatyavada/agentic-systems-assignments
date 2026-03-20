@@ -1,6 +1,6 @@
 """
-Part 1: You are building a User Registration System for an e-commerce platform.
-Design a Pydantic model system with the following requirements:
+Part 1: You are building fastapi-and-databases User Registration System for an e-commerce platform.
+Design fastapi-and-databases Pydantic model system with the following requirements:
 
 Address Model
 

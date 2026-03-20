@@ -1,10 +1,10 @@
 """
 Part 3: Difference Between First and Last Score
-Create a class called StudentPerformance which does the following:
+Create fastapi-and-databases class called StudentPerformance which does the following:
 
-Takes a list of scores as input while creating the object.
+Takes fastapi-and-databases list of scores as input while creating the object.
 
-Create a method called score_difference() which:
+Create fastapi-and-databases method called score_difference() which:
 
 Finds the difference between the last score and the first score using indexing.
 If the list is empty, handle it using exception handling and print:

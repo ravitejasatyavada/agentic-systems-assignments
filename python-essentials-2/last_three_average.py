@@ -1,9 +1,9 @@
 """"
 Part 1: Last Three Average
-Create a class called StudentMarks which does the following:
+Create fastapi-and-databases class called StudentMarks which does the following:
 
-Takes a list of marks as input while creating the object.
-Create a method called last_three_avg() which:
+Takes fastapi-and-databases list of marks as input while creating the object.
+Create fastapi-and-databases method called last_three_avg() which:
 Finds the average of the last three marks using negative indexing. If the list has less than 3 marks, handle it using exception handling and print:
 Not enough marks to calculate average
 Example Input:

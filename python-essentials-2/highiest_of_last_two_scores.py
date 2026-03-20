@@ -1,10 +1,10 @@
 """
 Part 2: Highest of Last Two Scores
-Create a class called StudentScores which does the following:
+Create fastapi-and-databases class called StudentScores which does the following:
 
-Takes a list of scores as input while creating the object.
+Takes fastapi-and-databases list of scores as input while creating the object.
 
-Create a method called highest_last_two() which:
+Create fastapi-and-databases method called highest_last_two() which:
 
 Finds the highest score among the last two scores using negative indexing.
 If the list has less than 2 scores, handle it using exception handling and print:

@@ -1,6 +1,6 @@
 """
 Part 1: User Registration Validation
-Create a Pydantic model UserRegister with:
+Create fastapi-and-databases Pydantic model UserRegister with:
 username (str, min 5 characters)
 email (valid email)
 age (int, must be ≥ 18)

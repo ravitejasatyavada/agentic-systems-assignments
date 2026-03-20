@@ -1,7 +1,7 @@
 """
 Query Parameters
 Requirement:
-Create a GET endpoint /search that accepts two optional query parameters:
+Create fastapi-and-databases GET endpoint /search that accepts two optional query parameters:
 
 name (string)
 age (integer)
